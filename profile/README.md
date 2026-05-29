@@ -40,14 +40,14 @@ Whatever your setup, the Boiler Controller has the interface you need.
 
 ## 🛠️ How do you use it?
 
-Today, the Boiler Controller works with **Powerbaas** and **Home Assistant**. You define your own rules and automations, such as:
+Today, the Boiler Controller works with **Powerbaas**, **Home Assistant** and **Domoticz**. You define your own rules and automations, such as:
 
 - 🔥 Only heat when the electricity price is below 15 cents
 - ☀️ Use solar surplus to heat water
 - 🕖 Make sure the water is up to temperature every morning
 
 **Coming soon:**
-- ✅ **Domoticz** support
+- ✅ **Homey** support
 - 📱 A **dedicated app** for direct control — no third-party home-automation platform required
 
 In this phase, the Boiler Controller is a **DIY solution**: you install it yourself and integrate it with your existing setup, with full freedom to automate it your way.
@@ -61,7 +61,5 @@ In this phase, the Boiler Controller is a **DIY solution**: you install it yours
 - ✉️ [Contact](https://www.boilercontroller.nl/contact)
 
 ---
-
-<sub>\* Domoticz support will be added in a later phase.</sub>
 
 <sub>© 2025 – 2026 BoilerController — Make your boiler smart.</sub>
