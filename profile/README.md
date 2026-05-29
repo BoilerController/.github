@@ -10,7 +10,7 @@ The result: free solar and cheap dynamic-tariff energy stored as hot water — w
 
 ## 🔋 Make your boiler a smart home battery
 
-Paired with **Powerbaas**, **Home Assistant**, or **Domoticz**\*, the Boiler Controller steers your boiler fully automatically based on solar surplus or the lowest electricity prices. You save directly on your energy bill **and** relieve pressure on the grid.
+Paired with **Powerbaas**, **Home Assistant**, or **Domoticz**, the Boiler Controller steers your boiler fully automatically based on solar surplus or the lowest electricity prices. You save directly on your energy bill **and** relieve pressure on the grid.
 
 ---
 
